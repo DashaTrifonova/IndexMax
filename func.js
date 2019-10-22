@@ -10,6 +10,6 @@ const func = (array) => {
       maxi = i;
     };
   };
-  return maxi + 1;
+  return maxi;
 };
 
